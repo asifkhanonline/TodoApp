@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970725150470",
+    "firebase_url": "https://todolast-b9364.firebaseio.com",
+    "project_id": "todolast-b9364",
+    "storage_bucket": "todolast-b9364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970725150470:android:1433cc0c26e4b4f6",
+        "android_client_info": {
+          "package_name": "com.lco.todolast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970725150470-hvan1849dgmaojodammkoej0ffscufgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lco.todolast",
+            "certificate_hash": "0a987c204b5fa98b0066420b1ea3e6f5a90103ae"
+          }
+        },
+        {
+          "client_id": "970725150470-scgfdl5n4v4avpgevaned72tbqd1uthf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHSu9YvM0_XSyQTKTZLu5ePx57brUfxKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970725150470-scgfdl5n4v4avpgevaned72tbqd1uthf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
